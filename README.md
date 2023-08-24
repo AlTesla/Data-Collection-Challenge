@@ -3,10 +3,12 @@
 The purpose of this project is to demonstrate the skills and knowledge acquired in the Data Collection Challenge assignment for Data Analytics Bootcamp. The project involves collecting, cleaning and analyzing data from various sources, using web scraping.The project also showcases the use of different tools and techniques, such as Python, Pandas, BeautifulSoup. he project aims to provide insights and recommendations based on the data analysis.
 ## table of contents 
 * Data-Collection-Challenge
+    * DataCollection
+        * Output
+            * data.csv
+        * part_1_mars_news.ipynb
+        * part_2_mars_weather.ipynb
     * gitignore
-    * data.csv
-    * part_1_mars_news.ipynb
-    * part_2_mars_weather.ipynb
     * README.md
 ## Installation 
 To install and run this project, you need to have the following requirements:
